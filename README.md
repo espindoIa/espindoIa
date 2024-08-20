@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=701198&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Marcelo+Espíndola;Economics+Undergraduate;Python+and+SQL+Learner;Data+Science+Enthusiast;Welcome+to+my+GitHub+Profile!+:%29&font=Fira+Code)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 ### 👨‍💻 About Me:
